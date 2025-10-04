@@ -67,9 +67,15 @@ This repository contains the following key directories:
 ## Demonstrated Use Cases
 The assistant is shown performing several high-value tasks locally:
 * **Revenue Analysis:** Generating a revenue breakdown from business data using LLaMA Vision.
+  ![Result](screenshots/Revenue_Analysis.jpeg)
 * **Document Q&A (Local RAG):** Answering follow-up queries and extracting specific details (dates, names) from uploaded private documents.
+  ![Result](screenshots/Uploaded_document_follow-up_queries.jpeg)
 * **Multi-modal Processing:** Analyzing an image (e.g., a food order table) and converting it into structured data.
+  ![Result](screenshots/Image_to_structured_data.jpeg)
 * **Code Generation:** Generating functional Python scripts for automation.
+  ![Result](screenshots/Python_code_generation_for_automation.jpeg)
+* **Personalised Email Draft:** This demonstrates how the assistant can read an uploaded document and help you write a personalized email based on its content
+  ![Result](screenshots/Personalised_email_draft.jpeg)
 
 ---
 
