@@ -75,7 +75,7 @@ The assistant is shown performing several high-value tasks locally:
 * **Code Generation:** Generating functional Python scripts for automation.
   ![Result](screenshots/Python_code_generation_for_automation.jpeg)
 * **Personalised Email Draft:** This demonstrates how the assistant can read an uploaded document and help you write a personalized email based on its content
-  ![Result](screenshots/Personalised_email_draft.jpeg)
+  ![Result](screenshots/Personalised_Email_Draft.png)
 
 ---
 
